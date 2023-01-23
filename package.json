@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0"
+  },
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "atividade de Node",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luislima42/AtividadeNodeJS.git"
+  },
+  "author": "Luis Felipe Rodrigues Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luislima42/AtividadeNodeJS/issues"
+  },
+  "homepage": "https://github.com/luislima42/AtividadeNodeJS#readme"
+}
